@@ -17,7 +17,7 @@ public class ArrayDemo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        int a=10;
         Scanner input =new Scanner(System.in);
         System.out.println("Enter the string");
         String word=input.next();
