@@ -7,7 +7,7 @@ package testinggit;
 
 /**
  *
- * @author AKSHAY
+ * @author AKSHAY Ghatge
  */
 public class Testinggit {
 
